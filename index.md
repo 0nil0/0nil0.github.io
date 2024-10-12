@@ -1,5 +1,5 @@
 ---
-title: VisCom Research Lab
+title: 无线网络技术课程
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false
