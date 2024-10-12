@@ -11,10 +11,10 @@ show_sidebar: false
             <td>
                 <table>
                     <tr>
-                      <td width="15%"><img src="img/logo.jpg"></td>
+                      <td width="15%"><img src="img/sycodes.png"></td>
                       <td width="80%">
                               <div>
-                                          <B>11111</B>
+                                          <B>专注无线网络技术的教学研究</B>
                               </div>
                       </td>
                     </tr>
@@ -31,28 +31,9 @@ show_sidebar: false
                     </tr>
                 </table>
             </td>
-            <td width="30%">
-                  <img src="img/groupPhoto0.jpg">
-            </td>
         </tr>
     </table>
 
 </Body>
 
 
-## News
-- **Sep. 2024** One paper accepted to WACV 2025 (early acceptance)! Well done, Maxime!
-- **Sep. 2024** One paper accepted to <B>IEEE Internet of Things</B>!
-- **Aug. 2024** Dr. YUE Zijie received the NSFC Youth Project, Big congrats!
-- **Aug. 2024** One paper accepted to <B>IEEE TMI</B>!
-- **Jul. 2024** Our PhD student ZHOU Zijian has been awarded the China Outstanding Self-financed Students Abroad. A Milestone! 
-- **Jul. 2024** Prof. Shi gave a talk at MICS 2024.  
-- **Jul. 2024** One paper accepted to <B>ECCV 2024</B>, Congrats to Zijian! 
-- **Jul. 2024** One paper accepted to <B>Proccedings of the IEEE</B>, Congrats to Maxime! 
-- **Jul. 2024** One paper accepted to <B>IEEE TCSVT</B>! 
-- **Jun. 2024** Dr. YUE Zijie has been awarded the China Postdoctoral Innovation Talent Support Program! Another Achievement!
-- **Jun. 2024** One paper accepted to ISPRS Journal of Photogrammetry and Remote Sensing. Congrats to Hamed!
-- **May. 2024** Kholoud successfully defended <B>her thesis<B>, huge congrats to <B>Dr.Alghamdi<B>!
-- **May. 2024** Prof. Shi gave a talk at VALSE 2024. 
-
-[more news](/news/)
