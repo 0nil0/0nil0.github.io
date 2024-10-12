@@ -14,7 +14,7 @@ show_sidebar: false
                       <td width="15%"><img src="img/logo.jpg"></td>
                       <td width="80%">
                               <div>
-                                          <B>Welcome to the Visual Computing (VisCom) research lab. This is a joint lab belonging to both the College of Electronic and Information Engineering, Tongji University and the Department of Informatics, King's College London. </B>
+                                          <B>11111</B>
                               </div>
                       </td>
                     </tr>
