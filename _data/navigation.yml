@@ -1,16 +1,16 @@
-- name: 实验教学系统
-  # link: /people/
-  dropdown:
-    - name: Tongji University
-      link: /tjpeople/
-    - name: King's College London
-      link: /people/
 - name: 课程简介
   link: /publications/
 - name: 教材和选用高校
   link: /bookandschool/
 - name: 电子资源
   link: /rewards/
+- name: 实验教学系统
+  # link: /people/
+  dropdown:
+    - name: Tongji University
+      link: /tjpeople/
+    - name: King's College London
+      link: /people/  
 - name: 常见问题
   link: /opportunities/
 # - name: News
