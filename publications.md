@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 课程简介
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false
