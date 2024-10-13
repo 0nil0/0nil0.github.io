@@ -278,3 +278,46 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">RFID数据读写/传输实测实验</p>
 </div>
+
+##### 20. 树莓派安装和配置WiFi路由器
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验在树莓派上安装操作系统，并完成相应配置，使树莓派成为1个带DNS服务的无线路由器。首先，将树莓派操作系统Raspbian用Win32DiskImager烧录到TF卡上。然后将TF卡和USB无线网卡插入并启动树莓派，进行相关配置。最后进行网络设置，并安装DNS服务/无线共享软件/DHCP服务。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约11分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/e0540kb6lri.html"><u>https://v.qq.com/x/page/e0540kb6lri.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1VafYWaH2MWsTfbJtU6dOsg"><u>https://pan.baidu.com/s/1VafYWaH2MWsTfbJtU6dOsg/</u></a></span>密码：6bwe</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex20.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">树莓派安装和配置WiFi路由器</p>
+</div>
+
+##### 21. Contiki系统测试与组网基础
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">Contiki是一个面向物联网的嵌入式操作系统，所需硬件要求门槛较低，应用较为广泛。将Contiki系统中的协议例程经过编译，烧录到CC2530节点。然后开启CC2530根节点，向其通信覆盖范围内其他节点发送广播包，处在通信范围内的节点接收到根节点的广播包后，解析和读取有关数据。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看短视频演示，原始长视频约6分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/w0531nbxap5.html"><u>https://v.qq.com/x/page/w0531nbxap5.html/</u></a></span></p><!--无效  -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1rrSnU0v8eNvIjC4HMpj1qg"><u>https://pan.baidu.com/s/1rrSnU0v8eNvIjC4HMpj1qg/</u></a></span>密码：9oi7</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex21_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex21_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">Contiki系统测试与组网基础</p>
+</div>
+
+##### 22. CoAP协议仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">CoAP协议是物联网环境的主流应用层协议，可以与互联网环境的HTTP协议相提并论。本实验在Contiki系统下，采用Cooja仿真器创建了1个CoAP服务器节点和1个边界路由节点，并采用tunslip6连通边界路由和本地主机，使主机能访问CoAP服务器节点。最后，通过主机上的火狐浏览器来对CoAP服务器发起访问请求。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约7分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/b0520ab861u.html"><u>https://v.qq.com/x/page/b0520ab861u.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1WJz_7CwyOS5f8cuootLp_A"><u>https://pan.baidu.com/s/1WJz_7CwyOS5f8cuootLp_A/</u></a></span>密码：bdag</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex22.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">CoAP协议仿真实验</p>
+</div>
