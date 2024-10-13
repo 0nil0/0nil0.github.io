@@ -9,7 +9,7 @@ show_sidebar: false
  <div>
       <div align="center">
         <p>专注无线网络技术的教学研究</p>
-        <img align="central" src="img/wnt-v2.jpg"  width="150" height="150">
+        <img align="central" src="img/sycodes.png"  width="150" height="150">
         <br />
       </div>
     </div>

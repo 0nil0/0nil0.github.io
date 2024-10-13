@@ -17,7 +17,7 @@ show_sidebar: false
 
 <div>
 <div style="display:flex;justify-content: space-between;">
-<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07220201.html"><img src="img/wnt-v3.jpg"  width="160" height="210"></a>
+<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07220201.html"><img src="img/wnt-v3.jpg"  width="150" height="150"></a>
 <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_05130301.html"><img src="img/wnt-v2.jpg"  width="160" height="210"></a>
 <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_03735101.html"><img src="img/wnt-v1.png"  width="160" height="210"></a>     		
 </div>
@@ -27,8 +27,8 @@ show_sidebar: false
 ### 选用高校
 ----------------------
 <div style="text-align:center">
-             <img src="img/map.jpg"  width="600" height="450">
-             	<p style="line-height:140%;margin-bottom:2px;word-break:break-all;"><CENTER>截止2019.5，已被200余所高校选为教学用书</CENTER></p>
+     <img src="img/map.jpg"  width="600" height="450">
+    <p style="line-height:140%;margin-bottom:2px;word-break:break-all;"><CENTER>截止2019.5，已被200余所高校选为教学用书</CENTER></p>
 </div>
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;">按省份及学校首字母排序</p>
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;">安徽：安徽科技学院等；&nbsp;北京：北京师范大学等；&nbsp;重庆：重庆邮电大学等；&nbsp;福建：华侨大学等；&nbsp;甘肃：兰州城市学院等；&nbsp;广东：华南理工大学等；&nbsp;广西：广西大学等；&nbsp;贵州：贵州大学等；&nbsp;海南：三亚学院等；&nbsp;河北：河北师范大学等；&nbsp;河南：河南大学等；&nbsp;湖北：武汉大学等；&nbsp;湖南：国防科技大学等；&nbsp;吉林：东北师范大学等；&nbsp;江苏：江苏大学等；&nbsp;江西：南昌大学等；&nbsp;辽宁：辽宁工业大学等；&nbsp;内蒙古：内蒙古大学等；&nbsp;宁夏：宁夏理工学院等；&nbsp;青海：青海民族大学等；&nbsp;山东：中国石油大学（华东）等；&nbsp;山西：大同大学等；&nbsp;陕西：长安大学等；&nbsp;上海：上海师范大学等；&nbsp;四川：四川大学等；&nbsp;天津：南开大学等；&nbsp;西藏：西藏民族大学等；&nbsp;新疆：喀什大学等；&nbsp;云南：昆明理工大学等；&nbsp;浙江：浙江大学等</p>
