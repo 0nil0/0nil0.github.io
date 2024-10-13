@@ -1,5 +1,5 @@
 ---
-title: 常见问题
+title: 实验教学实例和视频
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false

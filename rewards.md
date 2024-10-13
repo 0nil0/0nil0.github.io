@@ -1,5 +1,5 @@
 ---
-title: Awards
+title: 电子资源
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false

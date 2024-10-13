@@ -7,10 +7,12 @@
 - name: 实验教学系统
   # link: /people/
   dropdown:
-    - name: Tongji University
+    - name: 实验教学系统介绍
       link: /tjpeople/
-    - name: King's College London
+    - name: 实验项目介绍
       link: /people/  
+    - name: 实验教学实例和视频
+      link: /vedio/      
 - name: 常见问题
   link: /opportunities/
 # - name: News
