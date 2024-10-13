@@ -16,8 +16,8 @@ show_sidebar: false
     <img src="https://0nil0.github.io/img/course2.png"  width="200" height="250">
     <p style="text-align:center;">中国计算机学会通讯目录</p>
 </div>
-<div>
-<p style="text-indent:2em; text-align:justify;line-height:140%;word-break:break-all;">“无线网络技术”课程是面向网络工程、物联网工程、通信、计算机、电子、自动化、信息安全等专业或方向的选修课。是在传统“计算机网络”课程之后进一步的知识学习和延伸，重点围绕各种主流的无线网络技术和应用。学生将系统掌握无线网络的主要基础知识，深入学习和领会多种主流无线网络协议的工作原理和功能、无线网络协议仿真技术、无线网络应用的设计方法等专业知识。</p></div>
+
+<!-- <p style="text-indent:2em; text-align:justify;line-height:140%;word-break:break-all;">“无线网络技术”课程是面向网络工程、物联网工程、通信、计算机、电子、自动化、信息安全等专业或方向的选修课。是在传统“计算机网络”课程之后进一步的知识学习和延伸，重点围绕各种主流的无线网络技术和应用。学生将系统掌握无线网络的主要基础知识，深入学习和领会多种主流无线网络协议的工作原理和功能、无线网络协议仿真技术、无线网络应用的设计方法等专业知识。</p> -->
 <!-- <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;"><strong>教研论文: </strong><a href="https://0nil0.github.io/publications/ccf.pdf"><u>金光, 江先亮, 苏成龙. 无线网络技术：从章节到独立课程，中国计算机学会通讯，2016,12(9):25-30.</u></a></p> -->
 
 <!-- <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;"><strong>公众号文章1: </strong><a href="http://mp.weixin.qq.com/s/F0-UWRd8uX2dfKmTrAmRcw "><u>无线网络技术课程，你学过了吗？清华大学出版社书圈公众号，2017.05.17.</u></a></p>
