@@ -220,3 +220,19 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">ZigBee节点安装和组网基础</p>
 </div>
+
+##### 16. Arduino节点安装与开发基础
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验由3部分组成：(1)Arduino单片机开发环境的配置和代码烧录过程；(2)Arduino单片机控制蓝牙4.0模块，以实现Arduino节点与安卓手机之间的数据通信；(3)Arduino单片机控制Zigbee模块，以实现Arduino节点与主机之间的无线通信。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约16分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/b0540efn06p.html"><u>https://v.qq.com/x/page/b0540efn06p.html/</u></a></span></p><!--无效-->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/14D_nngF5YeEZOWaIRKwzAA"><u>https://pan.baidu.com/s/14D_nngF5YeEZOWaIRKwzAA/</u></a></span>密码：zj1i</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex16_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex16_2.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex16_3.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">Arduino节点安装与开发基础</p>
+</div>
