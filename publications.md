@@ -4,6 +4,7 @@ layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+
 <Body>
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;">面对社会的需求，高校课程也应求新求变，与时俱进。针对网络领域技术不断进步和教学需要，中国计算机学会的旗舰刊物《中国计算机学会通讯》(2016年第9期)专题介绍了“赛博新经济”(清华大学)、“互联网创新创业”(清华大学)、“移动互联网”(上海交大)和“无线网络技术”(宁波大学)4门代表性新兴课程。这些课程也被全国各校的计算机科学与技术、网络工程、物联网工程、通信工程等专业陆续纳入课程计划。</p>
 	
@@ -20,6 +21,7 @@ show_sidebar: false
 
 ### 课程介绍
 ----------------------
+
 <Body>
 <p style="text-indent:2em; text-align:justify;line-height:140%;word-break:break-all;">“无线网络技术”课程是面向网络工程、物联网工程、通信、计算机、电子、自动化、信息安全等专业或方向的选修课。是在传统“计算机网络”课程之后进一步的知识学习和延伸，重点围绕各种主流的无线网络技术和应用。学生将系统掌握无线网络的主要基础知识，深入学习和领会多种主流无线网络协议的工作原理和功能、无线网络协议仿真技术、无线网络应用的设计方法等专业知识。</p>
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;"><strong>教研论文: </strong><a href="https://0nil0.github.io/publications/ccf.pdf"><u>金光, 江先亮, 苏成龙. 无线网络技术：从章节到独立课程，中国计算机学会通讯，2016,12(9):25-30.</u></a></p> 
