@@ -92,3 +92,32 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">无线局域网数据分组分析软件开发实验</p>
 </div>
+
+##### 7. 隐藏节点和暴露节点仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">隐藏节点和暴露节点问题是无线网络尤其是射频无线电环境的经典问题。本实验通过对隐藏节点和暴露节点进行仿真，通过实验产生的trace数据对仿真过程中的延迟、丢包、吞吐量等进行分析。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约11分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/y05154ygolc.html"><u>https://v.qq.com/x/page/y05154ygolc.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1IdL44rSSJ8FtMZanfb88_A"><u>https://pan.baidu.com/s/1IdL44rSSJ8FtMZanfb88_A/</u></a></span>密码：9suh</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex7_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex7_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">隐藏节点和暴露节点仿真实验</p>
+</div>
+
+##### 8. 无线城域网WiMax仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">WiMax是无线城域网的典型技术方案，本实验对WiMax进行仿真，仿真拓扑包含移动节点、基站节点和目标节点，数据由移动节点产生，经过基站节点转发给目标节点。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/p0520dld4xv.html"><u>https://v.qq.com/x/page/p0520dld4xv.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1Hv1aDi3PWmbm4x0Ide8HRQ"><u>https://pan.baidu.com/s/1Hv1aDi3PWmbm4x0Ide8HRQ/</u></a></span>密码：9lfw</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex8.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">无线城域网WiMax仿真实验</p>
+</div>
