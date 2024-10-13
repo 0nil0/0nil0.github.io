@@ -17,6 +17,7 @@ show_sidebar: false
     <img src="https://0nil0.github.io/img/course2.png"  width="200" height="250">
     <p style="text-align:center;">中国计算机学会通讯目录</p>
 </div>
+</div>
 </Body>
 
 ### 课程介绍
