@@ -16,7 +16,7 @@ show_sidebar: false
 </div>
 
 <div>
-        	<div style="float=right"><div>
+        	<div style="float:right"><div>
           		<div>
             		<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07220201.html"><img src="img/wnt-v3.jpg"  width="160" height="210"></a>
           		</div>
