@@ -6,33 +6,6 @@ show_sidebar: false
 ---
 
 
-    <!-- <table>
-        <tr>
-            <td>
-                <table>
-                    <tr>
-                      <td width="30%"><img src="img/sycodes.png"></td>
-                      <td width="100%">
-                              <div>
-                                          <B>专注无线网络技术的教学研究</B>
-                              </div>
-                      </td>
-                    </tr>
-                </table>
-                <table>
-                    <tr>
-                        <td width="100%"> -->
-                          <!-- <div>
-                              Our research field is <i>computer vision</i> and <i>multimedia computing</i>.
-                              We are interested in a wide range of topics, and our current focus is on
-                              visual learning and understanding with multi-task and limited supervision.
-                          </div> -->
-                          <!-- </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table> -->
  <div>
       <div align="center">
         <p>专注无线网络技术的教学研究</p>
