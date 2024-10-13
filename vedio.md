@@ -139,13 +139,42 @@ show_sidebar: false
 ##### 10. 卫星网络系统仿真实验
 
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验针对卫星网络，设置5条数据流进行对比，起点均为北京，终点分别为上海、香港、悉尼、纽约和里约热内卢。采用CBR作为数据源，并利用UDP进行数据传输。分析trace文件来对比实验变化和通信距离的关系，实际数据传输路径中卫星节点个数不同，也会造成端到端的时延不同。</p>
-<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约4分钟</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约4分钟。</p>
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/y0540g8el5d.html"><u>https://v.qq.com/x/page/y0540g8el5d.html/</u></a></span></p>
-<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1w7gX45VbIePdnR1B_UmFrw "><u>https://pan.baidu.com/s/1w7gX45VbIePdnR1B_UmFrw/</u></a></span>密码：j75f</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1w7gX45VbIePdnR1B_UmFrw"><u>https://pan.baidu.com/s/1w7gX45VbIePdnR1B_UmFrw/</u></a></span>密码：j75f</p>
 
 <div>
 <div style="text-align:center">
     <img src="https://0nil0.github.io/img/ex10.png"  width="250" height="250">
 </div>
     <p style="text-align:center;">卫星网络系统仿真实验</p>
+</div>
+
+##### 11. GPS室外定位实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验为GPS实测实验，共两部分。基础实验：使用GPS模块收集当前位置的经纬度坐标和海拔高度，由Arduino Mega 2560单片机模块处理数据，最后通过串口通信将处理后的数据传输到PC端。扩展实验：结合WiFi网络与GPS进行开发性实验，同样使用GPS模块收集当前位置的经纬度坐标和海拔高度，由Arduino Mega 2560单片机模块处理数据，通过WiFi模块建立TCP连接将数据发送到服务器，在服务器端显示位置坐标。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约8分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/z067010swcj.html"><u>https://v.qq.com/x/page/z067010swcj.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1O7oPd6ck8RteviY301WK-A"><u>https://pan.baidu.com/s/1O7oPd6ck8RteviY301WK-A/</u></a></span>密码：4e7y</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex11_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex11_1.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">GPS室外定位实验</p>
+</div>
+
+##### 12. AODV和DSR协议仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">动态源路由协议DSR （Dynamic Source Routing）仿真实验，其中各节点先期通过RREQ/RREP（路由请求/路由应答）建立起相互间的路由，然后利用DSR动态源路由协议对各节点之间建立的路由进行确定和维护，提供快速式反应服务，确保数据分组的高效交付。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看AODV协议仿真实验短视频演示，原始长视频约4分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/c05081dcl0j.html"><u>https://v.qq.com/x/page/c05081dcl0j.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1edGczoA09k-6-eSt529jWw"><u>https://pan.baidu.com/s/1edGczoA09k-6-eSt529jWw/</u></a></span>密码：s49y</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex12.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">AODV和DSR协议仿真实验</p>
 </div>
