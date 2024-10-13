@@ -51,8 +51,7 @@ show_sidebar: false
 
 ##### 实验教学的学时和学期安排
 
-<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">以上实验视学生能力不同，需要不同学时，全部完成约24-32学时。教师在具体学时安排中，可考虑选做其中部分实验。</p>
-<p style="text-indent:2em;text-align:justify;word-break:break-all;">实验教学一般要求和理论课程同步进行，建议可考虑“先实验、后教学”，即前半学期以理论课为主，后半学期以实验课为主。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">以上实验视各校学生能力不同，需要不同学时，全部完成约24-32学时。教师具体安排时，可考虑选做其中部分实验。实验教学一般要求和理论课程同步进行，也可考虑“先实验、后教学”，即前半学期理论课为主，后半学期实验课为主</p>
 
 ##### 无线网络技术教学开源社区
 
@@ -65,7 +64,7 @@ show_sidebar: false
 ##### 无多功能无线网络和物联网实验箱的购买
 
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">目前已推出标准版多功能实验箱，由湖南新实网络公司统一销售和提供服务。目前已在宁波大学、国防科大(武汉)正式使用。并陆续在浙江大学、中山大学、国防科大(长沙)、中南林业科技大学、云南大学、重庆文理学院等开展试用。</p>
-<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">湖南新实网络：<span><a href="http://www.xperis.com.cn/"><u>http://www.xperis.com.cn/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">湖南新实网络：<span><a href="http://www.xperis.com.cn/"><u>http://www.xperis.com.cn</u></a></span></p>
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">客服电话：0731-84728105或15116127200</p>
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">客服邮箱：support@xperis.com.cn</p>
 <p style="text-indent:2em;text-align:justify;"><a href="http://www.xperis.com.cn/"><u> 点此了解购买详情</u></a></p>
