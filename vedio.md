@@ -121,3 +121,31 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">无线城域网WiMax仿真实验</p>
 </div>
+
+##### 9. 蜂窝移动网络的数据传输实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验在串口调试软件中，应用AT指令对SIM800C模块进行控制，以实现蜂窝移动网络的基础通信功能。其中包括：SIM800C模块与手机之间进行语音通话以及短信通话，并使用SIM800C访问某一网站，访问成功后利用SIM800C的HTTP GET功能获取该网站的HTML代码。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/b0527g4n8c6.html"><u>https://v.qq.com/x/page/b0527g4n8c6.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/12VoRLqOm-VtM61H2hIwtjA"><u>https://pan.baidu.com/s/12VoRLqOm-VtM61H2hIwtjA/</u></a></span>密码：8h47</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex9.jpg"  width="250" height="250">
+</div>
+    <p style="text-align:center;">移动蜂窝网络的数据传输实验</p>
+</div>
+
+##### 10. 卫星网络系统仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验针对卫星网络，设置5条数据流进行对比，起点均为北京，终点分别为上海、香港、悉尼、纽约和里约热内卢。采用CBR作为数据源，并利用UDP进行数据传输。分析trace文件来对比实验变化和通信距离的关系，实际数据传输路径中卫星节点个数不同，也会造成端到端的时延不同。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约4分钟</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/y0540g8el5d.html"><u>https://v.qq.com/x/page/y0540g8el5d.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1w7gX45VbIePdnR1B_UmFrw "><u>https://pan.baidu.com/s/1w7gX45VbIePdnR1B_UmFrw/</u></a></span>密码：j75f</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex10.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">卫星网络系统仿真实验</p>
+</div>
