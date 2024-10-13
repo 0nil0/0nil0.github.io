@@ -178,3 +178,45 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">AODV和DSR协议仿真实验</p>
 </div>
+
+##### 13. DD和S-MAC协议仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">定向扩散(Directed Diffusion，DD)是以数据为中心、查询驱动的无线传感网经典路由协议。本实验对DD协议进行仿真，定义了一个大小为670*670的仿真拓扑，设置了10个无线传感器节点，并配置了DD协议。S-MAC是基于竞争的MACC层协议。本实验对S-MAC协议进行仿真，定义了一个含14个WSN节点的仿真拓扑。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约14分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/a0520h3y2vu.html"><u>https://v.qq.com/x/page/a0520h3y2vu.html/</u></a></span></p><!--无效-->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1M4YixmMxeV03reNKXQdiMQ"><u>https://pan.baidu.com/s/1M4YixmMxeV03reNKXQdiMQ/</u></a></span>密码：1ttq</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex13.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">DD和S-MAC协议仿真实验</p>
+</div>
+
+##### 14. 水下无线传感网协议仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本仿真实验针对水下传感网的VBF路由协议，仿真分析传输性能，观看代码运行过程，节点1/2/3/4/5向节点0发送数据，打开数据文件，查看节点消耗能量和平均时延。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约8分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/k0531cht9vo.html"><u>https://v.qq.com/x/page/k0531cht9vo.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1Mywg5m11KA_V3g7oiqHRgA"><u>hhttps://pan.baidu.com/s/1Mywg5m11KA_V3g7oiqHRgA/</u></a></span>密码：kvi2</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex14.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">水下无线传感网协议仿真实验</p>
+</div>
+
+##### 15. ZigBee节点安装和组网基础
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验为Zigbee无线传感网实测实验的基础，搭建Zigbee网络实测平台，完成Z-Stack、IAR EW8051、CC Debugger、Smart Flash Programmer等环境的安装，之后的Zigbee网络、CC2530传感器节点的实验前需要先完成本实验。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约5分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/i052890ial4.html"><u>https://v.qq.com/x/page/i052890ial4.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1-Dg0yjTD7PwqII3HnVO7Zg"><u>https://pan.baidu.com/s/1-Dg0yjTD7PwqII3HnVO7Zg/</u></a></span>密码：wmcx</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex15.jpg"  width="250" height="250">
+</div>
+    <p style="text-align:center;">ZigBee节点安装和组网基础</p>
+</div>
