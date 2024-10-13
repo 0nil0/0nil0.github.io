@@ -27,7 +27,7 @@ show_sidebar: false
 ### 选用高校
 ----------------------
 <div style="text-align:center">
-     <img src="img/map.jpg"  width="600" height="450">
+     <img src="https://0nil0.github.io/img/map.jpg"  width="600" height="450">
     <p style="line-height:140%;margin-bottom:2px;word-break:break-all;"><CENTER>截止2019.5，已被200余所高校选为教学用书</CENTER></p>
 </div>
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;">按省份及学校首字母排序</p>
