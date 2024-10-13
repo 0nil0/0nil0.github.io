@@ -24,4 +24,4 @@ show_sidebar: false
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;"><strong>公众号文章2: </strong><a href="https://mp.weixin.qq.com/s?__biz=MzIyMDUyODkyNQ==&mid=100000379&idx=1&sn=411059019613322b361c9b60bfc1e02b&chksm=17cbea0920bc631febf5f0797bf1a1cf9867edb4bf40818fe15b18c62e11a3439859757b43b7&mpshare=1&scene=23&srcid=0602rggdl7BOs56GDs21Tudu#rd"><u>看视频，做实验，无线网络课程实验系统申请试用啦，NetEXP网络实验公众号，2017.06.02.</u></a></p>
 
 <p style="text-indent:2em; text-align:justify;line-height:140%;margin-bottom:2px;word-break:break-all;"><strong>公众号文章3: </strong><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==&mid=2650118055&idx=4&sn=23ab6a31b679a86786a7c7c5e74ee4f2&chksm=f4748fd3c30306c5854fb6c57a8b78e6718ecb40d7397d04feb8676e117ee11e1f6daf391460&mpshare=1&scene=1&srcid=0703xceP241uBNxQREOmMJzr#rd"><u>网络工程专业(方向)如何开设无线网络技术课程，清华大学出版社书圈公众号，2017.06.21.</u></a></p>
-<div>
+</div>
