@@ -321,3 +321,31 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">CoAP协议仿真实验</p>
 </div>
+
+##### 23. RPL协议仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">Contiki系统下，采用Cooja仿真平台，利用RPL协议进行无线仿真实验，其中各节点使用的RPL协议根据其目标函数，利用路由度量和约束条件算出最优路径，构建面向目标的有向无环图(DODAG)，形成最终的数据转发路径。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/s0520pukabk.html"><u>https://v.qq.com/x/page/s0520pukabk.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/18TM1RTYbspSA_-dWfSWXkA"><u>https://pan.baidu.com/s/18TM1RTYbspSA_-dWfSWXkA/</u></a></span>密码：b9jq</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex23.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">RPL协议仿真实验</p>
+</div>
+
+##### 24. 基于Contiki和RPL的无线传感网组网实测
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验的网络由搭载温度/湿度传感器模块的普通节点和DODAG根节点组成。普通节点负责采集/存储和上传温度/湿度信息，并根据DODAG转发临界点发送的温度/湿度信息。根节点完成温度/湿度数据汇聚并上传至PC机。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约11分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/c05407az4or.html"><u>https://v.qq.com/x/page/c05407az4or.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1FBUWIPCR3_73D9UOjEF4jQ"><u>https://pan.baidu.com/s/1FBUWIPCR3_73D9UOjEF4jQ/</u></a></span>密码：gthc</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex24.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">基于Contiki和RPL的无线传感网组网实测</p>
+</div>
