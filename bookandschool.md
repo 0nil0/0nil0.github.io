@@ -17,7 +17,7 @@ show_sidebar: false
 
 <div>
 <div style="display:flex;justify-content: space-between;">
-<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07220201.html"><img src="img/wnt-v3.jpg"  width="150" height="150"></a>
+<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_07220201.html"><img src="https://0nil0.github.io/img/wnt-v3.jpg"  width="160" height="210"></a>
 <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_05130301.html"><img src="img/wnt-v2.jpg"  width="160" height="210"></a>
 <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_03735101.html"><img src="img/wnt-v1.png"  width="160" height="210"></a>     		
 </div>
