@@ -48,5 +48,5 @@ show_sidebar: false
     <img src="https://0nil0.github.io/img/ex3_1.png"  width="250" height="250">
     <img src="https://0nil0.github.io/img/ex3_2.png"  width="250" height="250">
 </div>
-    <p style="text-align:center;">构建无线网络实验环境</p>
+    <p style="text-align:center;">无线局域网组网和管理实验</p>
 </div>
