@@ -30,7 +30,23 @@ show_sidebar: false
 <div>
 <div style="text-align:center">
 <img src="https://0nil0.github.io/img/ex2-1.png"  width="250" height="250">
-    <img src="https://0nil0.github.io/img/ex2-2.png"  width="250" height="250">
+<img src="https://0nil0.github.io/img/ex2-2.png"  width="250" height="250">
 </div>
     <p style="text-align:center;">无线网络环境RSSI测量实验</p>
+</div>
+
+##### 3.  无线局域网组网和管理实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验分2个部分。基础实验部分首先配置无线路由器(包括SSID/密码/信道/DHCP等)，以此组建无线局域网；再利用inSSIDer软件测量不同信道下WiFi信号的稳定性，并可更换到较为空闲的的信道。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">扩展实验中利用IPerf软件测量信道较繁忙和较空闲情况下的网络传输速率。在服务器上监听3个客户端，客户端同时向服务器传输数据，以此测量每条数据流的传输速率以及总传输带宽。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/a0540s6p1sh.html"><u>https://v.qq.com/x/page/a0540s6p1sh.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1mW6kWV5OSLzv2_xnVp004g"><u>https://pan.baidu.com/s/1mW6kWV5OSLzv2_xnVp004g/</u></a></span>密码：6xa2</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex3_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex3_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">构建无线网络实验环境</p>
 </div>
