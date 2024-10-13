@@ -10,4 +10,7 @@ show_sidebar: false
 
 ##### 第5版电子资源包括：
 ----------------------
-- 本科生课程教学大纲(工程教育认证版) <a href="https://0nil0.github.io/publications/无线网络技术教学大纲20170715.doc"> 下载</a>/\*仅供参考\*/
+- 本科生课程教学大纲(工程教育认证版) <a href="https://0nil0.github.io/publications/无线网络技术教学大纲20170715.doc"> 下载</a>;/\*仅供参考\*/
+- 第5版课件(全部共12章ppt)<a href="https://0nil0.github.io/publications/无线网络技术第5版PPT20230730.zip"> 下载</a>
+- 第5版习题答案<a href="https://0nil0.github.io/publications/无线网络技术第5版习题答案20230731.pdf"> 下载</a>
+- 期末考试样卷（任课教师可联系我们）
