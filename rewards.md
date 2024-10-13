@@ -18,14 +18,14 @@ show_sidebar: false
 
 ##### 标准版实验资源：
 - 第3版实验手册(实验箱标准版3.3.1)<a href="https://0nil0.github.io/publications/无线网络技术实验箱实验手册20171218.pdf">下载</a>;
-- 第3版实验环境和源代码(实验箱标准版3.3)<a href="http://fastswitch.org/nd.jsp?id=55&_np=2_617">获取渠道</a>
-- 第3版实验视频(实验箱标准版3.3)<a href="exp_demo.html">下载</a>;<!-- 2失效 -->
+- 第3版实验环境和源代码(实验箱标准版3.3)<a href="http://www.xperis.com.cn/">获取渠道</a>;
+- 第3版实验视频(实验箱标准版3.3)<a href="http://www.thinkmesh.net/wireless/exp_demo.html">下载</a>;
 
 ##### 增强版实验资源：
 - 实验手册(实验箱增强版3.4.3)<a href="https://0nil0.github.io/publications/无线网络技术实验箱实验手册20181129.pdf">下载</a>;
 - 实验手册(实验箱增强版5.0.1)<a href="https://0nil0.github.io/publications/无线网络技术实验手册20230906.pdf">下载</a>;
-- 实验环境和源代码<a href="http://fastswitch.org/nd.jsp?id=55&_np=2_617">获取渠道</a>;
-- 实验视频(实验箱增强版3.4.2)<a href="exp_demo.html">下载</a>;<!-- 3失效 -->
+- 实验环境和源代码<a href="http://www.xperis.com.cn/">获取渠道</a>;
+- 实验视频(实验箱增强版3.4.2)<a href="http://www.thinkmesh.net/wireless/exp_demo.html">下载</a>;
 
 ##### DIY版(自建实验环境)实验资源：
 - 实验手册(DIY版3.2)<a href="https://0nil0.github.io/publications/无线网络技术实验箱实验手册20181129.pdf">下载</a>
