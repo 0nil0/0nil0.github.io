@@ -50,3 +50,17 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">无线局域网组网和管理实验</p>
 </div>
+
+##### 4. 无线局域网信号测量软件开发实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验在Windows环境下自主开发一个无线局域网信号测量软件。该软件通过C++调用Winpcap网络开发包，对WiFi数据进行捕获，储存至临时文件。随后在Java环境下，通过内置表格类JTable和开源图表绘制类库JFreeChart，对临时文件中的数据进行展示和图形化分析。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约7分钟</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/z054062yn2w.html"><u>https://v.qq.com/x/page/z054062yn2w.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/13NLkE4DWB0elEWQHRuY9Rg"><u>https://pan.baidu.com/s/13NLkE4DWB0elEWQHRuY9Rg/</u></a></span>密码：ijqi</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex4.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">无线局域网信号测量软件开发实验</p>
+</div>
