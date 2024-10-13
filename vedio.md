@@ -14,5 +14,10 @@ show_sidebar: false
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/j0527akmica.html"><u>https://v.qq.com/x/page/j0527akmica.html/</u></a></span></p>
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1MQheLQNsSO_Aa_2sFrlYaw"><u>https://pan.baidu.com/s/1MQheLQNsSO_Aa_2sFrlYaw/</u></a></span>密码：i9e5</p>
 
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/images/ex1.jpg"  width="250" height="250">
+</div>
+    <p style="text-align:center;">构建无线网络实验环境</p>
+
 ##### 2. 无线网络环境RSSI测量实验
 
