@@ -236,3 +236,45 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">Arduino节点安装与开发基础</p>
 </div>
+
+##### 17. 基于ZigBee的户外环境监测网络实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">基于ZigBee多跳无线网络的室外环境实时监测系统，其中终端节点利用各类传感器收据环境数据，经由各路由节点并通过ZigBee协议多跳远距离传输至协调器节点，再使用串口通信读出各终端节点所采集的环境数据信息。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约12分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/k0521gikot6.html"><u>https://v.qq.com/x/page/k0521gikot6.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1wBm-AHK8Z5VW0-Wu9rkqWg"><u>https://pan.baidu.com/s/1wBm-AHK8Z5VW0-Wu9rkqWg/</u></a></span>密码：76ql</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex17.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">基于ZigBee的户外环境监测网络实验</p>
+</div>
+
+##### 18. IEEE802.15.4和ZBR协议仿真
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">IEEE 802.15.4和ZBR协议分别是WSN的典型MAC和路由协议，本实验对这两种协议进行仿真，学习、分析和体会不同协议的技术特点。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约10分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/z0520lukffa.html"><u>https://v.qq.com/x/page/z0520lukffa.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1x0ZxmhAiOW81Z8S1kR2BFQ"><u>https://pan.baidu.com/s/1x0ZxmhAiOW81Z8S1kR2BFQ/</u></a></span>密码：ohq5</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex18.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">IEEE802.15.4和ZBR协议仿真</p>
+</div>
+
+##### 19. RFID数据读写/传输实测实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">RFID读卡器先读取卡号，通过蓝牙模块，将卡号数据发至手机APP(开放源码)中，可与APP中已有卡号信息比对验证。可体会RFID/蓝牙/手机APP等环节连贯性，实际展现了一个真实的卡应用系统开发设计过程。学生可二次开发成面向校园卡(工作卡)的考勤管理、库存管理等，用于毕设或竞赛作品。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看短视频演示，原始长视频约4分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/i05095d4tj1.html"><u>https://v.qq.com/x/page/i05095d4tj1.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/126Sjv1aLXMZGeXT7SmrOZw"><u>https://pan.baidu.com/s/126Sjv1aLXMZGeXT7SmrOZw/</u></a></span>密码：k76m</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex19.jpg"  width="250" height="250">
+</div>
+    <p style="text-align:center;">RFID数据读写/传输实测实验</p>
+</div>
