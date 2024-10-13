@@ -349,3 +349,33 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">基于Contiki和RPL的无线传感网组网实测</p>
 </div>
+
+##### 25. IEEE 802.11p和VANET协议仿真
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">IEEE 802.11p协议仿真实验主要分析在节点移动情形下，MAC层采用IEEE802.11p协议时，节点间的数据传输情况。VANET仿真实验主要分析在街道场景下（无障碍物）下，随着车辆运动，V2V（车与车）之间的通信性能。本实验构建了纵横形式的街道，同时采用9个节点构建车载通信试验。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约6分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/w0528pbdeoh.html"><u>https://v.qq.com/x/page/w0528pbdeoh.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/152qCHCzTZlnALClgTK-YQg"><u>https://pan.baidu.com/s/152qCHCzTZlnALClgTK-YQg/</u></a></span>密码：cbzs</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex25_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex25_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">IEEE 802.11p和VANET协议仿真</p>
+</div>
+
+##### 26. 无线体域网健康监测系统设计开发实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">无线体域网健康监测系统中，当带有心率、收缩压、舒张压传感器的绷带收集到监测数据后，通过与Adurino单片机相连，经由Adurino单片机的数据处理，通过BLE4.0/IEEE802.15.6/802.15.4等协议传输到健康监测系统APP，最后展示出各项生理指标数据。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约8分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/k0521linl55.html"><u>https://v.qq.com/x/page/k0521linl55.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1BGbIfKdGGUsBmI1YuXLJbQ"><u>https://pan.baidu.com/s/1BGbIfKdGGUsBmI1YuXLJbQ/</u></a></span>密码：mbko</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex26_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex26_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">无线体域网健康监测系统设计开发实验</p>
+</div>
