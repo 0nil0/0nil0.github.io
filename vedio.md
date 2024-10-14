@@ -379,3 +379,60 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">无线体域网健康监测系统设计开发实验</p>
 </div>
+
+##### 27. 无线室内定位仿真实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验学习无线室内定位，利用已知节点(锚点)对未知节点进行定位，采用的定位技术主要依赖于节点的RSSI。实验拓扑结构如图所示，共8个节点，其中节点0至节点4为未知待定位节点，节点5至节点7为已知节点(锚节点)。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约5分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/p0528b8f8k0.html"><u>https://v.qq.com/x/page/p0528b8f8k0.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1mX5ZNtuQNq8fvkrNm1gUPA"><u>https://pan.baidu.com/s/1mX5ZNtuQNq8fvkrNm1gUPA/</u></a></span>密码：cuwh</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex27.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">无线室内定位仿真实验</p>
+</div>
+
+##### 28. WiFi无线室内定位实践
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验程序使用C++和Java环境开发。首先估算室内房间的大小，并定义坐标系。随后将3部手机开启热点，部署为参考锚节点。将PC机作为待定位节点，接收3个锚节点信号，根据收到的RSSI信号强度，可测算发射机与接收机的距离。最终通过三边定位算法计算出待定位节点坐标。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约5分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/l05402o6f6g.html"><u>https://v.qq.com/x/page/l05402o6f6g.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1FMGpIqcSCQDC4ThnZcnDkQ"><u>https://pan.baidu.com/s/1FMGpIqcSCQDC4ThnZcnDkQ/</u></a></span>密码：yz7u</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex28.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">WiFi无线室内定位实践</p>
+</div>
+
+##### 29. 无线网络攻击协议仿真
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">无线网络在带来方便性的同时产生了很多问题，开放的无线介质、多跳、自组织、无中心的组网方式，使得其更加脆弱。其中黑洞和灰洞攻击是典型的网络攻击代表，对数据传输危害极大。本实验以黑洞和灰洞攻击为例，通过仿真实验来描述简单的黑洞和灰洞攻击过程。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约4分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">注意事项：由于此视频名涉及审核问题，所以本视频以标题“无线网络灰黑洞协议仿真”上传</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/j0531v5jmt3.html"><u>https://v.qq.com/x/page/j0531v5jmt3.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/17nw0i8nSyPqVa524TIkriQ"><u>https://pan.baidu.com/s/17nw0i8nSyPqVa524TIkriQ/</u></a></span>密码：9o44</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex29.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">无线网络攻击协议仿真</p>
+</div>
+
+##### 30. Watchdog无线网络检测仿真
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">Watchdog监测邻节点转发数据包的情况，并设定相应阈值来检测出潜在的攻击节点，是有效防御黑洞和灰洞攻击的前提。本质上，Watchdog检测每个包被转发的情况，若果节点未有效转发数据包，则被认为恶意。换言之，邻节点的每个包都被Watchdog监听，并与自身缓存中的包进行比较，以验证是否正确转发。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约4分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/m0531ir9659.html"><u>https://v.qq.com/x/page/m0531ir9659.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1eHcwzFzoCvhqBghaaFCkBg"><u>https://pan.baidu.com/s/1eHcwzFzoCvhqBghaaFCkBg/</u></a></span>密码：ivue</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex30.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">Watchdog无线网络检测仿真</p>
+</div>
