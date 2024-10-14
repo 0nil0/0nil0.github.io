@@ -13,7 +13,7 @@ show_sidebar: false
       </div>
 </div>
 
-<div style="display:flex">
+<div style="display:flex;justify-content: space-between;">
          <div> <h3>实验驱动教学</h3></div>
          <div> <h3>实验驱动教学</h3></div>
          <div> <h3>实验驱动教学</h3></div>
