@@ -32,3 +32,31 @@ show_sidebar: false
 - 实验手段: 仿真+实测
 - 课外学习: 习题为辅，深入阅读前沿技术文献为主
 - 课外实践: 学生科研、学术作品、学科专业竞赛等
+
+##### 5.如何进行仿真实验?
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">参看本网站“实验教学系统”介绍，我们和湖南新实网络(国内领先的网络教学设备供应商)合作开发了“无线网络和物联网实验教学系统”。提供规范统一的实验环境，包含所有仿真和实测实验。教师不必自建实验教学环境，简化教学准备过程，有效减轻教师工作量。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">教师主要负责理论课教学，学生基本上可自主独立完成全部实验操作，提供全套实验操作视频，学生实验时模仿和参照，利于实验效率和质量。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all">便携式实验箱适宜各种户外实验，鼓励学生将实验箱带出实验室，自行灵活安排时间，如在寝室完成各种设计性实验，进而二次开发和学生科研。</p>
+
+##### 6.是否可以自建仿真实验环境?
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">下载本书电子资源，获取实验手册，提供了全部各项实测实验的操作步骤和细节，也标注了各种实验器材的型号规格。教师可自行搭建对应的实测实验环境。</p>
+
+##### 7.是否可以自建实测实验环境?
+
+<p style="text-indent:2em;text-align:justify;word-break:break-all;">下载本书电子资源，获取实验手册，提供了全部各项实测实验的操作步骤和细节，也标注了各种实验器材的型号规格。教师可自行搭建实测实验环境。考虑到器材来源不一，可能存在问题，建议选用我们开发的实验教学系统。</p>
+
+##### 8.如何进行仿真实验?
+
+- 树莓派除了用于本实验系统外，还可以用于其他物联网或嵌入式实验的核心控制系统，便于师生进一步的教学和学生科研。
+- 许多高校实验室通常已有很多PC，许多PC机可能已老化（如内存/硬盘空间不够），且已有分区复杂。但这些旧PC的显示器/键盘/鼠标还可继续使用，所以本实验系统提供了树莓派，和已有旧显示器/键盘/鼠标可组成一套Linux实验教学设备，发挥更多用途。
+
+##### 9. 实测实验是否涉及编程开发，有哪些基础要求？
+
+<p style="text-indent:2em;text-align:justify;word-break:break-all">为了帮助读者有效学习无线网络/物联网应用系统开发，我们提供的多个实测实验基本上都提供了源代码，分别在C++/Java/Android等环境运行，读者需具备少量编程基础。读者可研读这些代码，通常情况下也可不关注代码细节，而按照本手册的提示，直接编译运行程序即可。
+</p>
+
+##### 10.按照实验手册“实验一仿真实验环境组建”，安装了VirtualBox后，也导入了电子资源提供的WNT虚拟机系统文件，但有时发现VirtualBox无法启动WNT文件?
+
+<p style="text-indent:2em;text-align:justify;word-break:break-all">我们也发现学生机房的一批Windows XP上安装VirtualBox和WNT，使用正常，该批PC安装了了保护卡。但隔较长时间（如下一学期）后，在VirtualBox中无法正常启动WNT。仔细查找原因，原来学生机房PC一般不直接连接外网，而需要账号登录。通过账号登录外网之后即能正常启动WNT，应该是虚拟机更新方面的原因。</p>
