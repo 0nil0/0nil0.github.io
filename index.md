@@ -14,10 +14,10 @@ show_sidebar: false
 </div>
 
 <div style="display:flex">
-          <h3>实验驱动教学</h3>
-          <h3>实验驱动教学</h3>
-          <h3>实验驱动教学</h3>
-          <h3>实验驱动教学</h3>
+         <div> <h3>实验驱动教学</h3></div>
+         <div> <h3>实验驱动教学</h3></div>
+         <div> <h3>实验驱动教学</h3></div>
+         <div> <h3>实验驱动教学</h3></div>
 </div>
 
 
