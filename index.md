@@ -16,10 +16,10 @@ show_sidebar: false
 </div>
 
 <div style="display:flex;justify-content: space-between;">
-         <div style="padding-top:25px;"> <h3>实验驱动教学</h3></div>
-         <div style="padding-top:25px;"> <h3>理论实验融合</h3></div>
-         <div style="padding-top:25px;"> <h3>实验驱动教学</h3></div>
-         <div style="padding-top:25px;"> <h3>内容迭代更新</h3></div>
+         <div style="padding-top:25px;"> <i class="fa fa-rocket fa-lg"></i><h3>实验驱动教学</h3></div>
+         <div style="padding-top:25px;"><i class="fa fa-clock-o fa-lg"></i> <h3>理论实验融合</h3></div>
+         <div style="padding-top:25px;"> <i class="fa fa-gears fa-lg"></i><h3>内容迭代更新</h3></div>
+         <div style="padding-top:25px;"> <i class="fa fa-magic fa-lg"></i><h3>课外实践扩展</h3></div>
 </div>
 
 
