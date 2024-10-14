@@ -1,20 +1,20 @@
 - name: 课程简介
-  link: /publications/
+  link: /course/
 - name: 教材和选用高校
-  link: /bookandschool/
+  link: /bookview/
 - name: 电子资源
-  link: /rewards/
+  link: /resources/
 - name: 实验教学系统
   # link: /people/
   dropdown:
     - name: 实验教学系统介绍
-      link: /tjpeople/
+      link: /introduction/
     - name: 实验项目介绍
-      link: /people/  
+      link: /project/  
     - name: 实验教学实例和视频
       link: /vedio/      
 - name: 常见问题
-  link: /opportunities/
+  link: /fat/
 # - name: News
 #   link: /news/
 #- name: Post
