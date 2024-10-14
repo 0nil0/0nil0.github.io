@@ -13,10 +13,10 @@ show_sidebar: false
       </div>
 </div>
 <div style="display:flex">
-<h3><i class="fa fa-rocket fa-lg"></i> 实验驱动教学</h3>
+<!-- <h3><i class="fa fa-rocket fa-lg"></i> 实验驱动教学</h3> -->
 <h3><i class="fa fa-clock-o fa-lg"></i> 理论实验融合</h3>
 <h3><i class="fa fa-gears fa-lg"></i> 内容迭代更新</h3>
-<h3><i class="fa fa-magic fa-lg"></i> 课外实践扩展</h3>
+<!-- <h3><i class="fa fa-magic fa-lg"></i> 课外实践扩展</h3> -->
 </div>
 
 
