@@ -68,3 +68,6 @@ show_sidebar: false
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">客服电话：0731-84728105或15116127200</p>
 <p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">客服邮箱：support@xperis.com.cn</p>
 <p style="text-indent:2em;text-align:justify;"><a href="http://www.xperis.com.cn/"><u> 点此了解购买详情</u></a></p>
+<div align="center">
+    <img align="central" src="img/sycodes.png"  width="150" height="150">
+</div>
