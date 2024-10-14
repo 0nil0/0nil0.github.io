@@ -436,3 +436,107 @@ show_sidebar: false
 </div>
     <p style="text-align:center;">Watchdog无线网络检测仿真</p>
 </div>
+
+##### 31. 基于蓝牙和WiFi的智能灯控系统
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">参考教材第3章、第9章，使用Android手机通过WiFi模块或蓝牙模块与Arduino单片机通信，从而控制LED灯的状态变换。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/m07286utpz2.html?pcsharecode=0gIG7qL4&sf=uri"><u>https://v.qq.com/x/page/m07286utpz2.html?pcsharecode=0gIG7qL4&sf=uri/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1-_mHqSbkzhX2r33e8dcNaw"><u>https://pan.baidu.com/s/1-_mHqSbkzhX2r33e8dcNaw/</u></a></span>密码：83s6</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex31_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex31_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">基于蓝牙和WiFi的智能灯控系统</p>
+</div>
+
+##### 32. 基于MQTT协议的温度实时监测
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">消息队列遥测传输(Message Queuing Telemetry Transport, MQTT)是一个基于客户端-服务器的轻量级消息发布/订阅传输协议。可广泛应用于多种物联网应用场景中。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/r0670vmglyq.html"><u>https://v.qq.com/x/page/r0670vmglyq.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/17vIKZL0jrYFAYEqJmnmFgg"><u>https://pan.baidu.com/s/17vIKZL0jrYFAYEqJmnmFgg/</u></a></span>密码：f492</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex32_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex32_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">基于MQTT协议的温度实时监测</p>
+</div>
+
+##### 33. 低功耗广域物联网(LoRa)数据传输
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">LoRa是一种低功耗广域网通信技术，是美国Semtech公司采用和推广的一种基于扩频技术的超远距离无线传输方案。这一方案改变了以往关于传输距离与功耗的折衷考虑方式，为用户提供一种简单的能实现远距离、长电池寿命、大容量的系统，进而扩展了传感网络。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约12分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/e0671zawe2i.html"><u>https://v.qq.com/x/page/e0671zawe2i.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1hDEYYdgMDu5AsW6oDGpFog"><u>https://pan.baidu.com/s/1hDEYYdgMDu5AsW6oDGpFog/</u></a></span>密码：11mc</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex33_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex33_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">低功耗广域物联网(LoRa)数据传输</p>
+</div>
+
+##### 34. 机器人环境配置与开发基础实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">Robot Operating Sysem(ROS)是一个机器人软件框架。它提供了操作系统应有的服务，包括硬件抽象、底层设备控制、常见函数的实现、进程间消息传递、包管理等。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约16分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/l0670balycb.html"><u>https://v.qq.com/x/page/l0670balycb.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1RTUWL8CqFX91FKySms7ayw"><u>https://pan.baidu.com/s/1RTUWL8CqFX91FKySms7ayw/</u></a></span>密码：v93t</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex34.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">机器人环境配置与开发基础实验</p>
+</div>
+
+##### 35. 机器人即时定位和地图构建
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">机器人即时定位和地图构建(Simultaneous Localization And Mapping, SLAM)，为解决机器人在未知环境未知位置中绘制地图的问题，以实现机器人能够无障碍地在此环境下行动的目的。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约14分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/n0755h2bao9.html"><u>https://v.qq.com/x/page/n0755h2bao9.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1b4S6n7HD1z55YBAOBOYY6g"><u>https://pan.baidu.com/s/1b4S6n7HD1z55YBAOBOYY6g/</u></a></span>密码：3v2b</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex35_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex35_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">机器人即时定位和地图构建</p>
+</div>
+
+##### 36. 基于WIFI的无人船控制实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">参考教材第3章WIFI及蓝牙的背景知识，利用ESP8266WiFi模块通过TCP/IP协议与手机APP完成通信，以实现对小船控制的实验目的。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约11分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/z0755iy8u76.html"><u>https://v.qq.com/x/page/z0755iy8u76.html/</u></a></span></p><!-- 无效 -->
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1VUFHXCPp-zwHHcOOvC6Q2w"><u>https://pan.baidu.com/s/1VUFHXCPp-zwHHcOOvC6Q2w/</u></a></span>密码：c083</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex36_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex36_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">基于WIFI的无人船控制实验</p>
+</div>
+
+##### 37. 基于LoRa的远距离无人船控制实验
+
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">本实验由PC控制端及无人船两部分构成，将PC端串口软件上的控制指令通过LoRa模块，与无人船上开发板进行通信，实现对无人船控制及GPS数据采集的目的。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">点击链接可看完整视频演示，原始长视频约9分钟。</p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">视频链接：<span><a href="https://v.qq.com/x/page/f0755upc22v.html"><u>https://v.qq.com/x/page/f0755upc22v.html/</u></a></span></p>
+<p style="text-indent:2em;text-align:justify;margin-bottom:2px;word-break:break-all;">百度云下载链接：<span><a href="https://pan.baidu.com/s/1QTKccq8zf_qsspdywDvUEw"><u>https://pan.baidu.com/s/1QTKccq8zf_qsspdywDvUEw/</u></a></span>密码：1tmd</p>
+
+<div>
+<div style="text-align:center">
+    <img src="https://0nil0.github.io/img/ex37_1.png"  width="250" height="250">
+    <img src="https://0nil0.github.io/img/ex37_2.png"  width="250" height="250">
+</div>
+    <p style="text-align:center;">基于LoRa的远距离无人船控制实验</p>
+</div>
