@@ -5,6 +5,8 @@ hero_height: is-fullwidth
 show_sidebar: false
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 <div>
       <div align="center">
         <p>专注无线网络技术的教学研究</p>
@@ -14,10 +16,10 @@ show_sidebar: false
 </div>
 
 <div style="display:flex;justify-content: space-between;">
-         <div> <h3>实验驱动教学</h3></div>
-         <div> <h3>实验驱动教学</h3></div>
-         <div> <h3>实验驱动教学</h3></div>
-         <div> <h3>实验驱动教学</h3></div>
+         <div style="padding-top:25px;"> <h3>实验驱动教学</h3></div>
+         <div style="padding-top:25px;"> <h3>理论实验融合</h3></div>
+         <div style="padding-top:25px;"> <h3>实验驱动教学</h3></div>
+         <div style="padding-top:25px;"> <h3>内容迭代更新</h3></div>
 </div>
 
 
